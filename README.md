@@ -1,2 +1,13 @@
-# human-robot
-Worked one-to-one with Dr. Dandan Zhang from the University of Bristol exploring human-robot interaction. Conducted robotic arm simulations on CoppeliaSim that followed a script that I programmed on Python. Programmed Python code that uses OpenCV library for facial recognition to remotely control a robot.
+# Project description
+
+• Collaborated with Dr. Zhang on human-robot interaction research to facilitate efficient surgical operation.
+• Operated robotic arm trajectory simulations in CoppeliaSim using Python & MATLAB using Learning from
+Demonstration (LfD) techniques with an aim to automate monotonous surgical sub-tasks.
+• Optimized sim-to-real adaptations to try and translate learned maneuvers from simulation to a physical robot.
+• Developed facial recognition via Python’s OpenCV library for remote robot control as a project extension.
+
+
+## Panda-Franka-Emika robotic arm
+
+![robot](./docs/robot.png)
+
